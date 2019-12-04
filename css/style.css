@@ -1,0 +1,14 @@
+
+header{
+	visibility: hidden;
+}
+section, article{
+	width: 50%;
+}
+aside{
+	width: 50%;
+	float: right;
+}
+footer{
+	vertical-align: bottom;
+}
