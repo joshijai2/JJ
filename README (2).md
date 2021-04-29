@@ -18,7 +18,7 @@
   <a href="http://badges.mit-license.org/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://github.com/joshijai2/masterPortfolio/commits/master"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
   <a href="http://badges.mit-license.org/"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat-square" /></a>
-  <a href="https://ashutoshhathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+  <a href="https://Jaihathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
 <p align="center">If you want to discuss about something, then you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
@@ -212,7 +212,7 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
     <td align="center"><a href="https://miftaulmannan.wordpress.com/"><img src="https://avatars0.githubusercontent.com/u/42533823?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miftaul Mannan</b></sub></a><br /><a href="https://github.com/joshijai2/masterPortfolio/commits?author=Tasin5541" title="Code">💻</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://a-mishra.github.io"><img src="https://avatars0.githubusercontent.com/u/10567548?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashutosh Mishra</b></sub></a><br /><a href="https://github.com/joshijai2/masterPortfolio/commits?author=a-mishra" title="Code">💻</a></td>
+    <td align="center"><a href="http://a-mishra.github.io"><img src="https://avatars0.githubusercontent.com/u/10567548?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jai Mishra</b></sub></a><br /><a href="https://github.com/joshijai2/masterPortfolio/commits?author=a-mishra" title="Code">💻</a></td>
     <td align="center"><a href="http://tamojit.wixsite.com/mrtamojit"><img src="https://avatars0.githubusercontent.com/u/40804626?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tamojit</b></sub></a><br /><a href="https://github.com/joshijai2/masterPortfolio/commits?author=tamojit-123" title="Documentation">📖</a></td>
     <td align="center"><a href="https://prabin-karki.com.np"><img src="https://avatars.githubusercontent.com/u/43983896?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prabin Karki</b></sub></a><br /><a href="https://github.com/joshijai2/masterPortfolio/commits?author=githubprabin143" title="Code">💻</a></td>
     <td align="center"><a href="https://praveen.science/"><img src="https://avatars.githubusercontent.com/u/1830380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Praveen Kumar Purushothaman</b></sub></a><br /><a href="https://github.com/joshijai2/masterPortfolio/commits?author=praveenscience" title="Documentation">📖</a></td>

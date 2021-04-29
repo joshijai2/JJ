@@ -32,12 +32,12 @@ const greeting = {
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/joshijai2",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  // linkedin: "https://www.linkedin.com/in/joshijai2/",
+  // gmail: "joshi.jai232@gmail.com",
+  // gitlab: "https://gitlab.com/joshijai2",
+  // facebook: "https://www.facebook.com/joshijai2/",
+  // twitter: "https://twitter.com/joshi_jai2",
+  // instagram: "https://www.instagram.com/joshijai2/"
 
   {
     name: "Github",
@@ -231,7 +231,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/@Jai391",
     },
     {
       siteName: "Kaggle",
@@ -524,7 +524,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "animated_Jai.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -532,7 +532,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
+    link: "https://Jaihathidara.wordpress.com",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
