@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: '', // if no resume, the button will not show up
+  resume: 'https://1drv.ms/b/s!AtCZstbAX3wx-js-OYwEa6UNnMLa?e=llboSt', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -90,5 +90,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
