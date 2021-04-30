@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0bf7292.chunk.css",
-    "main.js": "/static/js/main.e44e9221.chunk.js",
-    "main.js.map": "/static/js/main.e44e9221.chunk.js.map",
+    "main.css": "/static/css/main.2a97f6fd.chunk.css",
+    "main.js": "/static/js/main.6195860f.chunk.js",
+    "main.js.map": "/static/js/main.6195860f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ee8ea36d.js",
     "runtime-main.js.map": "/static/js/runtime-main.ee8ea36d.js.map",
     "static/js/2.b3f31e4a.chunk.js": "/static/js/2.b3f31e4a.chunk.js",
     "static/js/2.b3f31e4a.chunk.js.map": "/static/js/2.b3f31e4a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.f0bf7292.chunk.css.map": "/static/css/main.f0bf7292.chunk.css.map",
+    "static/css/main.2a97f6fd.chunk.css.map": "/static/css/main.2a97f6fd.chunk.css.map",
     "static/js/2.b3f31e4a.chunk.js.LICENSE.txt": "/static/js/2.b3f31e4a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/JJ.png": "/static/media/JJ.7990ea82.png",
     "static/media/address_image.svg": "/static/media/address_image.ee6c2f85.svg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.cd39ca39.png",
-    "static/media/animated_logo.svg": "/static/media/animated_logo.fb5dc6c9.svg",
+    "static/media/animated_logo.svg": "/static/media/animated_logo.c3f03a16.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b87d12fd.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.5fd77f6b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.a47995e0.png",
@@ -32,7 +32,6 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.3227e84a.svg",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.547075a7.jpg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.344b08dc.png",
-    "static/media/iiitk_logo.png": "/static/media/iiitk_logo.27484d2c.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.6f29b198.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.b21d6f55.png",
@@ -45,12 +44,13 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.33fa3b87.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.31f4e734.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.6a48aa5b.svg",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.85434722.svg"
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.85434722.svg",
+    "static/media/vit_logo.png": "/static/media/vit_logo.0dcabf0c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ee8ea36d.js",
     "static/js/2.b3f31e4a.chunk.js",
-    "static/css/main.f0bf7292.chunk.css",
-    "static/js/main.e44e9221.chunk.js"
+    "static/css/main.2a97f6fd.chunk.css",
+    "static/js/main.6195860f.chunk.js"
   ]
 }
