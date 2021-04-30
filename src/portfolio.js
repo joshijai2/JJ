@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Jai's Portfolio",
+  title: "Jai Joshi's Personal Portfolio Website",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Being interested in computers since a young age, it feels wonderful to solve problems with the tools that just fit your hands. Made significant progress from a novice to self-learning new and interesting technologies and implementing them in projects. Eager to be challenged in order to provide simple and efficient solutions. Enthusiastic to learn new technologies as the need arises and improve my skills",
   og: {
-    title: "Jai Joshi Portfolio",
+    title: "JJ Personal Portfolio Website",
     type: "website",
     url: "https://joshijai2.github.io/",
   },
@@ -96,11 +96,10 @@ const skills = {
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "Scikit-Learn",
+          fontAwesomeClassname: "simple-icons:scikit-learn",
           style: {
             backgroundColor: "white",
-            color: "#D00000",
           },
         },
         {
@@ -137,13 +136,6 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
           style: {
@@ -173,24 +165,17 @@ const skills = {
           },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
           style: {
             color: "#663399",
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
           style: {
-            color: "#02569B",
+            color: "#4DB33D",
           },
         },
       ],
@@ -524,7 +509,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_Jai.png",
+    profile_image_path: "JJ.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -532,19 +517,19 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://Jaihathidara.wordpress.com",
+    link: "https://joshijai2.wordpress.com",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Amau, Tigri Chauraha, Opp Railway Track, Khatima, Uttarakhand - 262308",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
-    title: "Phone Number",
-    subtitle: "+91 8320758513",
+    title: "Mobile Number",
+    subtitle: "+91 8072458976",
   },
 };
 

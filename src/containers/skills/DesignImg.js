@@ -22,9 +22,9 @@ export default class DesignImg extends Component {
             y2="679.56"
             gradientUnits="userSpaceOnUse"
           >
-            <stop offset="0" stop-color="gray" stop-opacity="0.25" />
-            <stop offset="0.54" stop-color="gray" stop-opacity="0.12" />
-            <stop offset="1" stop-color="gray" stop-opacity="0.1" />
+            <stop offset="0" stopColor="gray" stopOpacity="0.25" />
+            <stop offset="0.54" stopColor="gray" stopOpacity="0.12" />
+            <stop offset="1" stopColor="gray" stopOpacity="0.1" />
           </linearGradient>
           <linearGradient
             id="72a3db62-0825-44ad-a640-19754e14ba99"
@@ -32,7 +32,7 @@ export default class DesignImg extends Component {
             y1="533.62"
             x2="458.12"
             y2="533.62"
-            // xlink:href="#ac59aa7e-40f5-4d5f-b82f-fdd6bf7d03ee"
+          // xlink:href="#ac59aa7e-40f5-4d5f-b82f-fdd6bf7d03ee"
           />
           <linearGradient
             id="060ac890-45f2-497a-b51d-740a183b02f3"
@@ -41,7 +41,7 @@ export default class DesignImg extends Component {
             x2="-1193.63"
             y2="383.52"
             gradientTransform="translate(1997.33)"
-            // xlink:href="#ac59aa7e-40f5-4d5f-b82f-fdd6bf7d03ee"
+          // xlink:href="#ac59aa7e-40f5-4d5f-b82f-fdd6bf7d03ee"
           />
         </defs>
         <title>design tools</title>
