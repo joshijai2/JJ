@@ -216,7 +216,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@Jai391",
+      profileLink: "https://www.hackerearth.com/@joshijai2",
     },
     {
       siteName: "Kaggle",
