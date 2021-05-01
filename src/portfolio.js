@@ -367,7 +367,7 @@ const experience = {
           company_url: "https://www.linkedin.com/company/5th-pillar/",
           logo_path: "5p_logo.jpg",
           duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          location: "Vellore, Tamil Nadu",
           description:
             "Managed events with participants ranging from 100 - 500.",
           color: "#eee",
@@ -378,7 +378,7 @@ const experience = {
           company_url: "https://www.linkedin.com/company/youth-red-cross-vit/",
           logo_path: "YRCVIT_logo.jpg",
           duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
+          location: "Vellore, Tamil Nadu",
           description:
             "",
           color: "#eee",
