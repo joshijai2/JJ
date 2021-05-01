@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.2a97f6fd.chunk.css",
-    "main.js": "/static/js/main.92707b0e.chunk.js",
-    "main.js.map": "/static/js/main.92707b0e.chunk.js.map",
+    "main.js": "/static/js/main.de425f86.chunk.js",
+    "main.js.map": "/static/js/main.de425f86.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ee8ea36d.js",
     "runtime-main.js.map": "/static/js/runtime-main.ee8ea36d.js.map",
-    "static/js/2.1f2f9fc7.chunk.js": "/static/js/2.1f2f9fc7.chunk.js",
-    "static/js/2.1f2f9fc7.chunk.js.map": "/static/js/2.1f2f9fc7.chunk.js.map",
+    "static/js/2.2b129ebe.chunk.js": "/static/js/2.2b129ebe.chunk.js",
+    "static/js/2.2b129ebe.chunk.js.map": "/static/js/2.2b129ebe.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.2a97f6fd.chunk.css.map": "/static/css/main.2a97f6fd.chunk.css.map",
-    "static/js/2.1f2f9fc7.chunk.js.LICENSE.txt": "/static/js/2.1f2f9fc7.chunk.js.LICENSE.txt",
+    "static/js/2.2b129ebe.chunk.js.LICENSE.txt": "/static/js/2.2b129ebe.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/JJ.png": "/static/media/JJ.7990ea82.png",
     "static/media/UCSD_logo.png": "/static/media/UCSD_logo.b7adee9d.png",
@@ -29,17 +29,13 @@
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0d29293e.png",
     "static/media/github_logo.png": "/static/media/github_logo.07f6d2e9.png",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.3227e84a.svg",
-    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.547075a7.jpg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.344b08dc.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.6f29b198.svg",
-    "static/media/legato_logo.png": "/static/media/legato_logo.b21d6f55.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb2.svg",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.179ef619.png",
     "static/media/programmer.svg": "/static/media/programmer.becd1465.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.fa5ff5db.svg",
-    "static/media/pwa.png": "/static/media/pwa.4f9edd63.png",
     "static/media/samsungprism_logo.png": "/static/media/samsungprism_logo.c4d993e4.png",
-    "static/media/stanford_logo.png": "/static/media/stanford_logo.33fa3b87.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.31f4e734.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.6a48aa5b.svg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.85434722.svg",
@@ -48,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ee8ea36d.js",
-    "static/js/2.1f2f9fc7.chunk.js",
+    "static/js/2.2b129ebe.chunk.js",
     "static/css/main.2a97f6fd.chunk.css",
-    "static/js/main.92707b0e.chunk.js"
+    "static/js/main.de425f86.chunk.js"
   ]
 }
