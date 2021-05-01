@@ -83,9 +83,8 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Developing scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Experience of working with Regression and Classification projects",
       ],
       softwareSkills: [
         {
